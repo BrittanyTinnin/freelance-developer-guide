@@ -1,4 +1,4 @@
-# The Freelancer Developer Guide
+# The Freelance Developer Guide
 
 ### Purpose
 
